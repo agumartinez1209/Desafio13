@@ -1,0 +1,20 @@
+2022/10/23 13:13:04 [error] 1564#10900: *1 CreateFile() "C:\Users\alber\OneDrive\Escritorio\Programacion\nginx-1.23.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/10/23 13:52:02 [notice] 5424#12520: signal process started
+2022/10/23 13:52:02 [error] 5424#12520: OpenEvent("Global\ngx_stop_15748") failed (5: Access is denied)
+2022/10/23 13:54:07 [notice] 8292#6872: signal process started
+2022/10/23 13:55:18 [notice] 15772#13664: signal process started
+2022/10/23 13:55:18 [error] 15772#13664: CreateFile() "C:\Users\alber\OneDrive\Escritorio\Programacion\nginx-1.23.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/10/23 13:55:50 [notice] 2696#11036: signal process started
+2022/10/23 13:55:53 [notice] 11680#1564: signal process started
+2022/10/23 13:59:38 [notice] 11656#6876: signal process started
+2022/10/23 13:59:38 [error] 11656#6876: CreateFile() "C:\Users\alber\OneDrive\Escritorio\Programacion\nginx-1.23.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/10/23 13:59:40 [notice] 7612#6232: signal process started
+2022/10/23 13:59:40 [error] 7612#6232: CreateFile() "C:\Users\alber\OneDrive\Escritorio\Programacion\nginx-1.23.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/10/23 16:19:21 [notice] 6768#12048: signal process started
+2022/10/25 22:17:42 [error] 15008#7396: *1 CreateFile() "C:\Users\alber\OneDrive\Escritorio\Programacion\nginx-1.23.2/html/datos" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /datos HTTP/1.1", host: "localhost"
+2022/10/25 22:17:42 [error] 15008#7396: *1 CreateFile() "C:\Users\alber\OneDrive\Escritorio\Programacion\nginx-1.23.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/datos"
+2022/10/25 22:22:56 [notice] 20264#15920: signal process started
+2022/10/25 22:36:14 [notice] 15376#16204: signal process started
+2022/10/25 22:45:49 [notice] 3092#8372: signal process started
+2022/10/25 22:45:52 [notice] 13224#16848: signal process started
+2022/10/25 22:45:52 [error] 13224#16848: CreateFile() "C:\Users\alber\OneDrive\Escritorio\Programacion\nginx-1.23.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
